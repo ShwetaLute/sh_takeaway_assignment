@@ -1,4 +1,4 @@
-Shweta Takeaway assignment [Takeaway](https://www.thuisbezorgd.nl/en/).
+Shweta Takeaway assignment 
 # Features
 - :nut_and_bolt: UI automation tool used in this project is [Protractor](https://www.protractortest.org/).
 - :page_with_curl:[Mocha](https://mochajs.org/) testing framework is used.
